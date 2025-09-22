@@ -123,7 +123,7 @@ Provide feedback on UI/UX
 📝 License
 This project is created for educational purposes as part of an iOS Development Course assignment.
 👨‍💻 Author
-[Rahul Kurra]
+Rahul Kurra
 
 GitHub: @developertable
 
